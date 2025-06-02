@@ -1,7 +1,8 @@
 
 
 A selection of projects completed as part of a Computational Physics module during my undergraduate Physics and Philosophy degree. 
-Corresponding reports are attached in each folder. 
+
+Corresponding reports are included in each folder. 
 
 ### Orbit Calculations using the Runge-Kutta method
 
