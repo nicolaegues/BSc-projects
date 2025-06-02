@@ -1,6 +1,9 @@
-Work in progress
 
-Runge Kutta Orbit project: 
+
+A selection of projects completed as part of a Computational Physics module during my undergraduate Physics and Philosophy degree. 
+Corresponding reports are attached in each folder. 
+
+### Orbit Calculations using the Runge-Kutta method
 
 - 3-Body Moon Slingshot:
 
@@ -10,3 +13,7 @@ Runge Kutta Orbit project:
 
 <img src="https://github.com/nicolaegues/BSc-projects/blob/main/runge_kutta_orbits/animations/2D_orbit_part_d.gif" width="50%" height="50%">
 
+
+### Analysis of Fresnel diffraction - Numerical Integration
+
+### Free Fall simulation using the Euler Method
